@@ -1,0 +1,622 @@
+[
+  {
+    "text" : "HAWAII",
+    "confidence" : 1,
+    "boundingBox" : {
+      "height" : 33,
+      "x" : 183,
+      "y" : 17,
+      "width" : 146
+    }
+  },
+  {
+    "boundingBox" : {
+      "x" : 420,
+      "height" : 17,
+      "width" : 58,
+      "y" : 43
+    },
+    "text" : "1598186415",
+    "confidence" : 0.3
+  },
+  {
+    "text" : "HXZ 910",
+    "boundingBox" : {
+      "width" : 472,
+      "height" : 143,
+      "x" : 19,
+      "y" : 61
+    },
+    "confidence" : 0.3
+  },
+  {
+    "text" : "ALOHA STATE",
+    "boundingBox" : {
+      "width" : 242,
+      "x" : 132,
+      "height" : 32,
+      "y" : 207
+    },
+    "confidence" : 1
+  },
+  {
+    "text" : "2-95",
+    "confidence" : 0.5,
+    "boundingBox" : {
+      "width" : 58,
+      "y" : 283,
+      "x" : 26,
+      "height" : 21
+    }
+  },
+  {
+    "boundingBox" : {
+      "y" : 264,
+      "x" : 213,
+      "height" : 58,
+      "width" : 268
+    },
+    "confidence" : 1,
+    "text" : "Wyoming"
+  },
+  {
+    "text" : "125",
+    "boundingBox" : {
+      "x" : 239,
+      "height" : 115,
+      "width" : 194,
+      "y" : 327
+    },
+    "confidence" : 1
+  },
+  {
+    "confidence" : 1,
+    "boundingBox" : {
+      "height" : 34,
+      "x" : 651,
+      "y" : 25,
+      "width" : 223
+    },
+    "text" : "Connecticut"
+  },
+  {
+    "confidence" : 0.5,
+    "text" : "JNKY JO",
+    "boundingBox" : {
+      "height" : 113,
+      "x" : 583,
+      "width" : 343,
+      "y" : 72
+    }
+  },
+  {
+    "text" : "Constitution State",
+    "boundingBox" : {
+      "height" : 33,
+      "width" : 249,
+      "x" : 631,
+      "y" : 200
+    },
+    "confidence" : 1
+  },
+  {
+    "confidence" : 1,
+    "boundingBox" : {
+      "y" : 272,
+      "x" : 540,
+      "width" : 45,
+      "height" : 19
+    },
+    "text" : "MAY"
+  },
+  {
+    "boundingBox" : {
+      "x" : 930,
+      "height" : 20,
+      "y" : 278,
+      "width" : 48
+    },
+    "confidence" : 1,
+    "text" : "2001"
+  },
+  {
+    "confidence" : 0.3,
+    "text" : "Califonia Stravberny Sestival",
+    "boundingBox" : {
+      "height" : 70,
+      "y" : 371,
+      "width" : 392,
+      "x" : 558
+    }
+  },
+  {
+    "boundingBox" : {
+      "y" : 547,
+      "x" : 47,
+      "width" : 93,
+      "height" : 19
+    },
+    "confidence" : 1,
+    "text" : "EXPLORE"
+  },
+  {
+    "text" : "Minnesota",
+    "confidence" : 1,
+    "boundingBox" : {
+      "width" : 227,
+      "x" : 152,
+      "y" : 526,
+      "height" : 43
+    }
+  },
+  {
+    "boundingBox" : {
+      "x" : 41,
+      "height" : 115,
+      "width" : 438,
+      "y" : 584
+    },
+    "text" : "AYA«157",
+    "confidence" : 0.3
+  },
+  {
+    "text" : "FBi",
+    "boundingBox" : {
+      "width" : 58,
+      "y" : 707,
+      "height" : 35,
+      "x" : 23
+    },
+    "confidence" : 0.3
+  },
+  {
+    "text" : "10,000 lakes",
+    "confidence" : 1,
+    "boundingBox" : {
+      "y" : 718,
+      "height" : 33,
+      "x" : 172,
+      "width" : 167
+    }
+  },
+  {
+    "boundingBox" : {
+      "height" : 19,
+      "x" : 427,
+      "width" : 63,
+      "y" : 730
+    },
+    "confidence" : 0.3,
+    "text" : "110093247"
+  },
+  {
+    "text" : "MISSOURI",
+    "boundingBox" : {
+      "y" : 771,
+      "height" : 38,
+      "x" : 161,
+      "width" : 196
+    },
+    "confidence" : 1
+  },
+  {
+    "confidence" : 0.5,
+    "text" : "506 MKK",
+    "boundingBox" : {
+      "y" : 819,
+      "width" : 447,
+      "height" : 136,
+      "x" : 34
+    }
+  },
+  {
+    "boundingBox" : {
+      "y" : 961,
+      "width" : 301,
+      "x" : 104,
+      "height" : 29
+    },
+    "confidence" : 0.3,
+    "text" : "C SHOW-ME STATE c"
+  },
+  {
+    "confidence" : 0.3,
+    "boundingBox" : {
+      "x" : 436,
+      "height" : 34,
+      "y" : 957,
+      "width" : 47
+    },
+    "text" : "013"
+  },
+  {
+    "text" : "EP",
+    "boundingBox" : {
+      "width" : 43,
+      "y" : 1024,
+      "x" : 47,
+      "height" : 30
+    },
+    "confidence" : 0.3
+  },
+  {
+    "text" : "ARIZONA",
+    "boundingBox" : {
+      "height" : 32,
+      "x" : 152,
+      "width" : 207,
+      "y" : 1030
+    },
+    "confidence" : 1
+  },
+  {
+    "text" : "70795",
+    "confidence" : 0.3,
+    "boundingBox" : {
+      "y" : 1026,
+      "height" : 19,
+      "width" : 52,
+      "x" : 418
+    }
+  },
+  {
+    "boundingBox" : {
+      "x" : 39,
+      "y" : 1065,
+      "width" : 431,
+      "height" : 124
+    },
+    "confidence" : 0.5,
+    "text" : "DNN4552"
+  },
+  {
+    "boundingBox" : {
+      "width" : 398,
+      "y" : 1187,
+      "x" : 80,
+      "height" : 37
+    },
+    "text" : "GRAND CANYON 5 TAT E A799",
+    "confidence" : 0.5
+  },
+  {
+    "boundingBox" : {
+      "width" : 245,
+      "x" : 733,
+      "y" : 518,
+      "height" : 77
+    },
+    "confidence" : 1,
+    "text" : "Ski Ultah!"
+  },
+  {
+    "text" : "489 CLS",
+    "boundingBox" : {
+      "width" : 452,
+      "y" : 582,
+      "x" : 524,
+      "height" : 136
+    },
+    "confidence" : 0.5
+  },
+  {
+    "confidence" : 0.5,
+    "text" : "• GREATEST SNOW ON EARTH",
+    "boundingBox" : {
+      "x" : 592,
+      "height" : 33,
+      "width" : 284,
+      "y" : 707
+    }
+  },
+  {
+    "boundingBox" : {
+      "width" : 54,
+      "x" : 540,
+      "y" : 771,
+      "height" : 26
+    },
+    "confidence" : 1,
+    "text" : "MAR"
+  },
+  {
+    "boundingBox" : {
+      "width" : 288,
+      "height" : 52,
+      "y" : 765,
+      "x" : 623
+    },
+    "confidence" : 0.5,
+    "text" : "OKLAHOMA®"
+  },
+  {
+    "text" : "97",
+    "boundingBox" : {
+      "x" : 928,
+      "y" : 799,
+      "width" : 32,
+      "height" : 19
+    },
+    "confidence" : 1
+  },
+  {
+    "text" : "ATT",
+    "confidence" : 0.5,
+    "boundingBox" : {
+      "y" : 825,
+      "width" : 174,
+      "height" : 111,
+      "x" : 531
+    }
+  },
+  {
+    "text" : "000",
+    "confidence" : 0.3,
+    "boundingBox" : {
+      "y" : 899,
+      "x" : 723,
+      "width" : 71,
+      "height" : 39
+    }
+  },
+  {
+    "text" : "752",
+    "boundingBox" : {
+      "y" : 839,
+      "x" : 795,
+      "height" : 106,
+      "width" : 176
+    },
+    "confidence" : 1
+  },
+  {
+    "confidence" : 0.5,
+    "text" : "NATIVE AMERICA",
+    "boundingBox" : {
+      "x" : 631,
+      "y" : 950,
+      "height" : 40,
+      "width" : 242
+    }
+  },
+  {
+    "confidence" : 1,
+    "text" : "MICHIGAN",
+    "boundingBox" : {
+      "width" : 214,
+      "x" : 635,
+      "height" : 36,
+      "y" : 1012
+    }
+  },
+  {
+    "confidence" : 1,
+    "text" : "KJN 498",
+    "boundingBox" : {
+      "x" : 522,
+      "y" : 1049,
+      "height" : 125,
+      "width" : 437
+    }
+  },
+  {
+    "boundingBox" : {
+      "x" : 510,
+      "y" : 1172,
+      "width" : 76,
+      "height" : 34
+    },
+    "confidence" : 0.3,
+    "text" : "DEC"
+  },
+  {
+    "confidence" : 0.3,
+    "text" : "• GREAT LAKES",
+    "boundingBox" : {
+      "y" : 1181,
+      "width" : 265,
+      "x" : 584,
+      "height" : 34
+    }
+  },
+  {
+    "text" : "97",
+    "confidence" : 1,
+    "boundingBox" : {
+      "height" : 23,
+      "width" : 43,
+      "x" : 911,
+      "y" : 1181
+    }
+  },
+  {
+    "confidence" : 1,
+    "boundingBox" : {
+      "x" : 1161,
+      "width" : 216,
+      "height" : 41,
+      "y" : 7
+    },
+    "text" : "MISSOURI®"
+  },
+  {
+    "text" : "506 MKK",
+    "boundingBox" : {
+      "x" : 1028,
+      "width" : 460,
+      "y" : 62,
+      "height" : 141
+    },
+    "confidence" : 0.3
+  },
+  {
+    "text" : "APR 6",
+    "confidence" : 0.3,
+    "boundingBox" : {
+      "x" : 1029,
+      "y" : 204,
+      "width" : 91,
+      "height" : 37
+    }
+  },
+  {
+    "confidence" : 0.3,
+    "text" : "SHOW-ME STATE •",
+    "boundingBox" : {
+      "height" : 32,
+      "x" : 1133,
+      "width" : 276,
+      "y" : 214
+    }
+  },
+  {
+    "confidence" : 1,
+    "text" : "MAINE",
+    "boundingBox" : {
+      "y" : 274,
+      "x" : 1175,
+      "height" : 41,
+      "width" : 172
+    }
+  },
+  {
+    "confidence" : 0.5,
+    "text" : "69655 C",
+    "boundingBox" : {
+      "width" : 449,
+      "x" : 1033,
+      "y" : 318,
+      "height" : 129
+    }
+  },
+  {
+    "confidence" : 1,
+    "text" : "APR 82",
+    "boundingBox" : {
+      "height" : 22,
+      "x" : 1029,
+      "width" : 58,
+      "y" : 452
+    }
+  },
+  {
+    "text" : "64325",
+    "confidence" : 0.3,
+    "boundingBox" : {
+      "width" : 41,
+      "x" : 1042,
+      "y" : 472,
+      "height" : 13
+    }
+  },
+  {
+    "text" : "•VACATIONLAND.",
+    "boundingBox" : {
+      "x" : 1094,
+      "width" : 311,
+      "y" : 453,
+      "height" : 41
+    },
+    "confidence" : 1
+  },
+  {
+    "boundingBox" : {
+      "width" : 176,
+      "x" : 1031,
+      "y" : 534,
+      "height" : 41
+    },
+    "confidence" : 0.3,
+    "text" : "10 NEW"
+  },
+  {
+    "text" : "HAMPSHIRE 99",
+    "boundingBox" : {
+      "height" : 46,
+      "width" : 266,
+      "y" : 533,
+      "x" : 1209
+    },
+    "confidence" : 1
+  },
+  {
+    "boundingBox" : {
+      "y" : 586,
+      "x" : 1047,
+      "width" : 407,
+      "height" : 148
+    },
+    "confidence" : 1,
+    "text" : "YANKY9"
+  },
+  {
+    "confidence" : 0.5,
+    "text" : "LIVE FREE OR DIE",
+    "boundingBox" : {
+      "width" : 224,
+      "height" : 22,
+      "y" : 723,
+      "x" : 1133
+    }
+  },
+  {
+    "text" : "ScenicIDAHO",
+    "boundingBox" : {
+      "x" : 1059,
+      "height" : 50,
+      "y" : 771,
+      "width" : 272
+    },
+    "confidence" : 0.5
+  },
+  {
+    "boundingBox" : {
+      "height" : 115,
+      "width" : 453,
+      "x" : 1009,
+      "y" : 821
+    },
+    "confidence" : 0.5,
+    "text" : "1T 10352"
+  },
+  {
+    "text" : "TOES",
+    "boundingBox" : {
+      "height" : 21,
+      "y" : 970,
+      "x" : 1290,
+      "width" : 67
+    },
+    "confidence" : 1
+  },
+  {
+    "text" : "81",
+    "boundingBox" : {
+      "width" : 43,
+      "height" : 30,
+      "x" : 1393,
+      "y" : 956
+    },
+    "confidence" : 0.5
+  },
+  {
+    "boundingBox" : {
+      "width" : 438,
+      "y" : 1043,
+      "height" : 117,
+      "x" : 1009
+    },
+    "text" : "4419-BAR",
+    "confidence" : 1
+  },
+  {
+    "confidence" : 1,
+    "boundingBox" : {
+      "y" : 1170,
+      "height" : 41,
+      "x" : 1107,
+      "width" : 242
+    },
+    "text" : "NEW YORK"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "text" : "oineaoole",
+    "boundingBox" : {
+      "x" : 272,
+      "y" : 45,
+      "width" : 455,
+      "height" : 82
+    },
+    "confidence" : 0.3
+  },
+  {
+    "text" : "J- ary°iy",
+    "boundingBox" : {
+      "width" : 169,
+      "height" : 91,
+      "x" : 424,
+      "y" : 162
+    },
+    "confidence" : 0.3
+  }
+]

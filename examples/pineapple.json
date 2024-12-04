@@ -1,0 +1,82 @@
+[
+  {
+    "confidence" : 1,
+    "boundingBox" : {
+      "width" : 70,
+      "y" : 23,
+      "height" : 89,
+      "x" : 0
+    },
+    "text" : "1"
+  },
+  {
+    "boundingBox" : {
+      "height" : 80,
+      "y" : 388,
+      "x" : 0,
+      "width" : 69
+    },
+    "confidence" : 1,
+    "text" : "3"
+  },
+  {
+    "boundingBox" : {
+      "height" : 115,
+      "x" : 265,
+      "width" : 467,
+      "y" : 47
+    },
+    "confidence" : 0.5,
+    "text" : "pineapple"
+  },
+  {
+    "text" : "Party",
+    "boundingBox" : {
+      "x" : 400,
+      "width" : 202,
+      "y" : 147,
+      "height" : 113
+    },
+    "confidence" : 1
+  },
+  {
+    "boundingBox" : {
+      "width" : 436,
+      "height" : 87,
+      "x" : 281,
+      "y" : 263
+    },
+    "confidence" : 1,
+    "text" : "ZEBRA"
+  },
+  {
+    "boundingBox" : {
+      "width" : 202,
+      "x" : 400,
+      "y" : 373,
+      "height" : 113
+    },
+    "confidence" : 1,
+    "text" : "Party"
+  },
+  {
+    "boundingBox" : {
+      "height" : 72,
+      "y" : 22,
+      "width" : 53,
+      "x" : 916
+    },
+    "text" : "2",
+    "confidence" : 1
+  },
+  {
+    "confidence" : 1,
+    "text" : "4",
+    "boundingBox" : {
+      "height" : 86,
+      "x" : 921,
+      "y" : 389,
+      "width" : 75
+    }
+  }
+]

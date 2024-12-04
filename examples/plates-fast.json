@@ -1,0 +1,432 @@
+[
+  {
+    "boundingBox" : {
+      "width" : 218,
+      "height" : 34,
+      "y" : 23,
+      "x" : 652
+    },
+    "confidence" : 0.3,
+    "text" : "Conne@ticut"
+  },
+  {
+    "boundingBox" : {
+      "height" : 28,
+      "x" : 1163,
+      "y" : 16,
+      "width" : 190
+    },
+    "text" : "MISSOURI",
+    "confidence" : 0.3
+  },
+  {
+    "confidence" : 0.5,
+    "text" : "HXZ 91Q",
+    "boundingBox" : {
+      "width" : 468,
+      "y" : 63,
+      "height" : 159,
+      "x" : 22
+    }
+  },
+  {
+    "text" : ",JNKYJO",
+    "boundingBox" : {
+      "width" : 363,
+      "height" : 123,
+      "x" : 558,
+      "y" : 69
+    },
+    "confidence" : 0.5
+  },
+  {
+    "confidence" : 0.5,
+    "boundingBox" : {
+      "height" : 141,
+      "y" : 61,
+      "width" : 443,
+      "x" : 1040
+    },
+    "text" : "506 MKK"
+  },
+  {
+    "confidence" : 0.5,
+    "text" : "ALOHA STATE",
+    "boundingBox" : {
+      "y" : 207,
+      "x" : 134,
+      "width" : 232,
+      "height" : 30
+    }
+  },
+  {
+    "confidence" : 0.3,
+    "boundingBox" : {
+      "y" : 202,
+      "width" : 269,
+      "x" : 634,
+      "height" : 32
+    },
+    "text" : "Coiistitiitic)n State 5"
+  },
+  {
+    "boundingBox" : {
+      "y" : 208,
+      "x" : 1037,
+      "width" : 45,
+      "height" : 27
+    },
+    "text" : ",IL'h'",
+    "confidence" : 0.3
+  },
+  {
+    "text" : "Wyomtsr",
+    "boundingBox" : {
+      "x" : 210,
+      "y" : 266,
+      "width" : 289,
+      "height" : 54
+    },
+    "confidence" : 0.3
+  },
+  {
+    "text" : "'4125;,",
+    "boundingBox" : {
+      "height" : 197,
+      "x" : 52,
+      "width" : 440,
+      "y" : 281
+    },
+    "confidence" : 0.3
+  },
+  {
+    "text" : "MAY",
+    "confidence" : 0.3,
+    "boundingBox" : {
+      "width" : 40,
+      "x" : 545,
+      "height" : 14,
+      "y" : 273
+    }
+  },
+  {
+    "text" : "2001",
+    "boundingBox" : {
+      "width" : 42,
+      "height" : 13,
+      "x" : 934,
+      "y" : 281
+    },
+    "confidence" : 0.3
+  },
+  {
+    "text" : "MA'INE",
+    "confidence" : 0.3,
+    "boundingBox" : {
+      "width" : 170,
+      "y" : 277,
+      "height" : 36,
+      "x" : 1176
+    }
+  },
+  {
+    "boundingBox" : {
+      "y" : 323,
+      "height" : 121,
+      "x" : 1044,
+      "width" : 434
+    },
+    "confidence" : 0.5,
+    "text" : "69655 C"
+  },
+  {
+    "boundingBox" : {
+      "height" : 9,
+      "width" : 24,
+      "y" : 470,
+      "x" : 561
+    },
+    "text" : "00",
+    "confidence" : 0.3
+  },
+  {
+    "confidence" : 0.3,
+    "text" : "VACATIONLAM&'",
+    "boundingBox" : {
+      "y" : 450,
+      "width" : 296,
+      "height" : 41,
+      "x" : 1118
+    }
+  },
+  {
+    "boundingBox" : {
+      "y" : 531,
+      "x" : 1221,
+      "height" : 44,
+      "width" : 203
+    },
+    "confidence" : 0.5,
+    "text" : "HAMPSHiaE"
+  },
+  {
+    "text" : "EXPLORE",
+    "boundingBox" : {
+      "x" : 50,
+      "height" : 15,
+      "y" : 548,
+      "width" : 88
+    },
+    "confidence" : 0.3
+  },
+  {
+    "text" : "Minnesota '",
+    "boundingBox" : {
+      "y" : 527,
+      "height" : 36,
+      "width" : 254,
+      "x" : 155
+    },
+    "confidence" : 0.3
+  },
+  {
+    "text" : "AYAtl",
+    "boundingBox" : {
+      "width" : 298,
+      "y" : 581,
+      "x" : 48,
+      "height" : 121
+    },
+    "confidence" : 0.5
+  },
+  {
+    "confidence" : 0.5,
+    "text" : ",lake",
+    "boundingBox" : {
+      "height" : 21,
+      "y" : 722,
+      "x" : 261,
+      "width" : 62
+    }
+  },
+  {
+    "confidence" : 0.5,
+    "boundingBox" : {
+      "width" : 34,
+      "height" : 14,
+      "x" : 445,
+      "y" : 711
+    },
+    "text" : "99:,"
+  },
+  {
+    "boundingBox" : {
+      "x" : 531,
+      "y" : 585,
+      "height" : 149,
+      "width" : 514
+    },
+    "confidence" : 0.5,
+    "text" : "489_CLS ."
+  },
+  {
+    "boundingBox" : {
+      "x" : 1058,
+      "width" : 390,
+      "height" : 133,
+      "y" : 587
+    },
+    "confidence" : 0.5,
+    "text" : "YANKY9"
+  },
+  {
+    "text" : "LIVE FREE OR",
+    "confidence" : 0.5,
+    "boundingBox" : {
+      "y" : 724,
+      "x" : 1138,
+      "height" : 17,
+      "width" : 167
+    }
+  },
+  {
+    "confidence" : 0.3,
+    "text" : ".MISSOURI",
+    "boundingBox" : {
+      "x" : 153,
+      "height" : 28,
+      "y" : 775,
+      "width" : 195
+    }
+  },
+  {
+    "confidence" : 0.5,
+    "text" : "MAR",
+    "boundingBox" : {
+      "y" : 773,
+      "width" : 49,
+      "height" : 22,
+      "x" : 542
+    }
+  },
+  {
+    "text" : "' OKLAHOMA",
+    "boundingBox" : {
+      "y" : 762,
+      "width" : 307,
+      "x" : 582,
+      "height" : 55
+    },
+    "confidence" : 0.5
+  },
+  {
+    "text" : "DAHO",
+    "confidence" : 0.5,
+    "boundingBox" : {
+      "height" : 33,
+      "y" : 774,
+      "width" : 140,
+      "x" : 1190
+    }
+  },
+  {
+    "text" : "06 MKK",
+    "confidence" : 0.5,
+    "boundingBox" : {
+      "width" : 368,
+      "y" : 819,
+      "height" : 135,
+      "x" : 110
+    }
+  },
+  {
+    "boundingBox" : {
+      "width" : 534,
+      "height" : 189,
+      "x" : 534,
+      "y" : 764
+    },
+    "confidence" : 0.5,
+    "text" : "A TTIi752 .1"
+  },
+  {
+    "text" : "AMERI",
+    "boundingBox" : {
+      "width" : 88,
+      "x" : 742,
+      "height" : 37,
+      "y" : 951
+    },
+    "confidence" : 0.3
+  },
+  {
+    "confidence" : 0.3,
+    "boundingBox" : {
+      "x" : 1088,
+      "height" : 22,
+      "y" : 966,
+      "width" : 271
+    },
+    "text" : "• FA%lnll.Si(yfAIUES."
+  },
+  {
+    "boundingBox" : {
+      "y" : 1033,
+      "width" : 206,
+      "x" : 152,
+      "height" : 26
+    },
+    "confidence" : 0.5,
+    "text" : "ARIZDNA"
+  },
+  {
+    "confidence" : 0.3,
+    "boundingBox" : {
+      "height" : 27,
+      "width" : 192,
+      "x" : 636,
+      "y" : 1016
+    },
+    "text" : "IfjICrllC3Ii. i"
+  },
+  {
+    "confidence" : 0.5,
+    "boundingBox" : {
+      "height" : 119,
+      "y" : 1065,
+      "width" : 410,
+      "x" : 50
+    },
+    "text" : "DNN&552"
+  },
+  {
+    "confidence" : 1,
+    "text" : "KJN 498",
+    "boundingBox" : {
+      "width" : 420,
+      "x" : 530,
+      "y" : 1045,
+      "height" : 127
+    }
+  },
+  {
+    "boundingBox" : {
+      "x" : 84,
+      "width" : 357,
+      "y" : 1188,
+      "height" : 22
+    },
+    "text" : "GRAND CANYOM 5TATE,",
+    "confidence" : 0.5
+  },
+  {
+    "text" : "DEC",
+    "boundingBox" : {
+      "height" : 27,
+      "x" : 536,
+      "width" : 36,
+      "y" : 1175
+    },
+    "confidence" : 0.5
+  },
+  {
+    "text" : "GREAT LAKES",
+    "boundingBox" : {
+      "x" : 628,
+      "height" : 23,
+      "width" : 218,
+      "y" : 1184
+    },
+    "confidence" : 0.5
+  },
+  {
+    "confidence" : 0.5,
+    "text" : "97",
+    "boundingBox" : {
+      "x" : 918,
+      "y" : 1184,
+      "width" : 31,
+      "height" : 19
+    }
+  },
+  {
+    "text" : ".I£-BAlh",
+    "boundingBox" : {
+      "height" : 172,
+      "width" : 339,
+      "y" : 1043,
+      "x" : 1116
+    },
+    "confidence" : 0.3
+  },
+  {
+    "text" : ".JIEW YOR",
+    "confidence" : 0.3,
+    "boundingBox" : {
+      "height" : 41,
+      "width" : 206,
+      "y" : 1173,
+      "x" : 1100
+    }
+  }
+]
