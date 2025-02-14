@@ -16,7 +16,7 @@ tools with the following command:
 xcode-select --install
 ```
 
-Then simply run `sh bash.sh` to build `swiftocr`, and move it somewhere in your
+Then simply run `sh build.sh` to build `swiftocr`, and move it somewhere in your
 path like `/usr/local/bin/swiftocr`.
 
 ## Usage
